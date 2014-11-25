@@ -5,7 +5,7 @@ Simple client interface and useful scripts
 
 Installation
 ------------
-Run: ``pip install macaddresslink.py``
+Run: ``pip install macaddresslink``
 
 Running
 -------
