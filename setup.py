@@ -21,7 +21,7 @@ with open('macaddresslink.py') as macaddresslink_source:
 dependencies = ['requests', 'netifaces']
 
 setup_params = dict(
-    name="macaddresslink.py",
+    name="macaddresslink",
     version=version,
     description="macaddress.link client",
     long_description=long_description,
